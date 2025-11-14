@@ -8,7 +8,7 @@
 - 💻 I love building clean & simple web projects  
 - 💼 Looking for **Web Development / Software Development** opportunities  
 - 🚀 Exploring **Git, GitHub, and Open Source**  
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: **rushikeshbodkhe07@gmail.com**
 
 ---
 
@@ -20,8 +20,8 @@
 ---
 
 ### 📌 Portfolio  
-👉 **Live Portfolio:** https://your-portfolio-link.vercel.app  
-👉 **GitHub Repository:** https://github.com/yourname/portfolio
+👉 **Live Portfolio:** (https://rushikeshbodkhe07.github.io/portfolio-website/)
+👉 **GitHub Repository:** (https://github.com/rushikeshbodkhe07/portfolio-website)
 
 ---
 
@@ -35,5 +35,5 @@
 ---
 
 ### 🤝 Connect With Me  
-LinkedIn: https://linkedin.com/in/your-profile  
+LinkedIn: (https://www.linkedin.com/in/rushikesh-bodkhe-809931237) 
 
